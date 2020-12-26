@@ -210,7 +210,7 @@ body.lock {
 .header {
   position: relative;
   z-index: 5;
-  background: url("../../images/header/bg.png") no-repeat #000;
+  background: url("../images/header/bg.png") no-repeat #000;
   background-position: 0 0;
   background-size: 100%;
 }
@@ -245,7 +245,7 @@ body.lock {
   display: block;
 }
 .header__nav {
-  background: url("../../images/header/nav-bg.png") no-repeat;
+  background: url("../images/header/nav-bg.png") no-repeat;
   background-size: cover;
   position: absolute;
   top: 100%;
@@ -287,7 +287,7 @@ body.lock {
 
 @media (min-width: 992px) {
   .header {
-    background: url("../../images/header/bg2.png") no-repeat;
+    background: url("../images/header/bg2.png") no-repeat;
     background-size: cover;
   }
   .header__burger {
@@ -330,7 +330,7 @@ body.lock {
 }
 
 .detailing {
-  background: url("../../images/detailing/bg.png") no-repeat;
+  background: url("../images/detailing/bg.png") no-repeat;
   background-size: cover;
 }
 
@@ -345,7 +345,7 @@ body.lock {
 }
 
 .price1 {
-  background: url("../../images/price/pr1mob.png") no-repeat;
+  background: url("../images/price/pr1mob.png") no-repeat;
   background-size: cover;
   padding: 65px 0 19px 0;
 }
@@ -357,7 +357,7 @@ body.lock {
 }
 
 .standart {
-  background: url("../../images/price/standart-bg.png") no-repeat;
+  background: url("../images/price/standart-bg.png") no-repeat;
   background-size: cover;
   padding: 50px 15px;
   margin-bottom: 35px;
@@ -370,7 +370,7 @@ body.lock {
 }
 
 .premium {
-  background: url("../../images/price/premium-bg.png") no-repeat;
+  background: url("../images/price/premium-bg.png") no-repeat;
   background-size: cover;
   padding: 50px 15px;
   margin-bottom: 35px;
@@ -383,12 +383,12 @@ body.lock {
 }
 
 .price2 {
-  background: url("../../images/price/pr2mob.png") no-repeat;
+  background: url("../images/price/pr2mob.png") no-repeat;
   background-size: cover;
 }
 
 .platinum {
-  background: url("../../images/price/platinum-bg.png") no-repeat;
+  background: url("../images/price/platinum-bg.png") no-repeat;
   background-size: cover;
   margin: -1px 0 30px 0;
   padding: 50px 15px;
@@ -415,7 +415,7 @@ body.lock {
 }
 
 .showroom {
-  background: url("../../images/showroom/showroo-bg.png") no-repeat;
+  background: url("../images/showroom/showroo-bg.png") no-repeat;
   background-size: cover;
   padding-bottom: 68px;
 }
@@ -455,7 +455,7 @@ body.lock {
 }
 
 .service {
-  background: url("../../images/service/bg.png") no-repeat;
+  background: url("../images/service/bg.png") no-repeat;
   background-size: cover;
   padding: 0 0 38px 0;
 }
@@ -473,24 +473,24 @@ body.lock {
 }
 
 .selection {
-  background: url("../../images/service/selection-bg-mob.png") no-repeat;
+  background: url("../images/service/selection-bg-mob.png") no-repeat;
   background-size: cover;
   margin: 0 0 38px 0;
 }
 
 .trade-in {
-  background: url("../../images/service/tradeIn-bg-mob.png") no-repeat;
+  background: url("../images/service/tradeIn-bg-mob.png") no-repeat;
   background-size: cover;
   margin: 0 0 38px 0;
 }
 
 .car-purchase {
-  background: url("../../images/service/carPurchase-bg-mob.png") no-repeat;
+  background: url("../images/service/carPurchase-bg-mob.png") no-repeat;
   background-size: cover;
 }
 
 .service2 {
-  background: url("../../images/servie2/bg.png") no-repeat;
+  background: url("../images/servie2/bg.png") no-repeat;
   background-size: cover;
 }
 .service2__title {
@@ -501,7 +501,7 @@ body.lock {
 }
 
 .calculator {
-  background: url("../../images/cacluclator/bg.png") no-repeat;
+  background: url("../images/cacluclator/bg.png") no-repeat;
   background-size: cover;
   padding: 22px 15px 30px 15px;
 }
@@ -648,7 +648,7 @@ body.lock {
 }
 
 .tuning {
-  background: url("../../images/tuning/bg.png") center no-repeat;
+  background: url("../images/tuning/bg.png") center no-repeat;
   background-size: cover;
 }
 
@@ -684,7 +684,7 @@ body.lock {
 }
 
 .stages {
-  background: url("../../images/stages/bg.png") center no-repeat;
+  background: url("../images/stages/bg.png") center no-repeat;
   background-size: cover;
   padding: 68px 0 28px 0;
 }
@@ -696,19 +696,19 @@ body.lock {
 }
 
 .stage1 {
-  background: rgba(0, 0, 0, 0.5) url("../../images/stages/stage1-bg.png") center no-repeat;
+  background: rgba(0, 0, 0, 0.5) url("../images/stages/stage1-bg.png") center no-repeat;
   background-size: cover;
   margin-bottom: 38px;
 }
 
 .stage2 {
-  background: url("../../images/stages/stage2-bg.png") center no-repeat;
+  background: url("../images/stages/stage2-bg.png") center no-repeat;
   background-size: cover;
   margin-bottom: 38px;
 }
 
 .stage3 {
-  background: url("../../images/stages/stage3-bg.png") center no-repeat;
+  background: url("../images/stages/stage3-bg.png") center no-repeat;
   background-size: cover;
 }
 
@@ -747,7 +747,7 @@ body.lock {
   }
 
   .tuning {
-    background: url("../../images/tuning/bg.png") center -145px no-repeat;
+    background: url("../images/tuning/bg.png") center -145px no-repeat;
     background-size: cover;
   }
 
@@ -758,12 +758,12 @@ body.lock {
 }
 @media (min-width: 768px) {
   .price1 {
-    background: url("../../images/price/pr1pc.png") no-repeat;
+    background: url("../images/price/pr1pc.png") no-repeat;
     background-size: cover;
   }
 
   .standart {
-    background: url("../../images/price/standart-bg-pc.png") no-repeat;
+    background: url("../images/price/standart-bg-pc.png") no-repeat;
     padding: 54px 100px 69px 100px;
     margin-bottom: 79px;
   }
@@ -772,7 +772,7 @@ body.lock {
   }
 
   .premium {
-    background: url("../../images/price/premium-bg-pc.png") no-repeat;
+    background: url("../images/price/premium-bg-pc.png") no-repeat;
     padding: 54px 100px 69px 100px;
   }
   .premium__btn:first-child {
@@ -784,12 +784,12 @@ body.lock {
   }
 
   .price2 {
-    background: url("../../images/price/pr2pc.png") no-repeat;
+    background: url("../images/price/pr2pc.png") no-repeat;
     background-size: cover;
   }
 
   .platinum {
-    background: url("../../images/price/platinum-bg-pc.png") no-repeat;
+    background: url("../images/price/platinum-bg-pc.png") no-repeat;
     background-size: cover;
     padding: 54px 100px 69px 100px;
     margin: 0 0 64px 0;
@@ -824,24 +824,24 @@ body.lock {
   }
 
   .selection {
-    background: url("../../images/service/selection-bg-pc.png") no-repeat;
+    background: url("../images/service/selection-bg-pc.png") no-repeat;
     background-size: cover;
     margin: 0 0 80px 0;
   }
 
   .trade-in {
-    background: url("../../images/service/tradeIn-bg-pc.png") no-repeat;
+    background: url("../images/service/tradeIn-bg-pc.png") no-repeat;
     background-size: cover;
     margin: 0 0 80px 0;
   }
 
   .car-purchase {
-    background: url("../../images/service/carPurchase-bg-pc.png") no-repeat;
+    background: url("../images/service/carPurchase-bg-pc.png") no-repeat;
     background-size: cover;
   }
 
   .tuning {
-    background: url("../../images/tuning/bg.png") center -200px no-repeat;
+    background: url("../images/tuning/bg.png") center -200px no-repeat;
     background-size: cover;
   }
 
@@ -903,7 +903,7 @@ body.lock {
   }
 
   .tuning {
-    background: url("../../images/tuning/bg.png") center -245px no-repeat;
+    background: url("../images/tuning/bg.png") center -245px no-repeat;
     background-size: cover;
   }
 
@@ -1000,7 +1000,7 @@ body.lock {
   }
 }
 .footer__top {
-  background: url("../../images/footer/bg-top-mob.png") no-repeat;
+  background: url("../images/footer/bg-top-mob.png") no-repeat;
   background-size: cover;
 }
 .footer__row {
@@ -1032,7 +1032,7 @@ body.lock {
   margin: 0 0 2px 0;
 }
 .footer__code {
-  background: url("../../images/footer/bg-code-mob.png") center no-repeat;
+  background: url("../images/footer/bg-code-mob.png") center no-repeat;
   background-size: cover;
   width: 100%;
   height: 180px;
@@ -1041,7 +1041,7 @@ body.lock {
   align-items: center;
 }
 .footer__bottom {
-  background: url("../../images/footer/bg-bottom.png") no-repeat;
+  background: url("../images/footer/bg-bottom.png") no-repeat;
   background-size: cover;
   height: 79px;
   display: flex;
@@ -1055,7 +1055,7 @@ body.lock {
 
 @media (min-width: 480px) {
   .footer__top {
-    background: url("../../images/footer/bg-top-pc.png") center no-repeat;
+    background: url("../images/footer/bg-top-pc.png") center no-repeat;
     background-size: cover;
   }
   .footer__row {
@@ -1108,7 +1108,7 @@ body.lock {
 }
 .detailing-pop-pup__body {
   width: 270px;
-  background: url("../../images/detailing/popup/bg.png") no-repeat;
+  background: url("../images/detailing/popup/bg.png") no-repeat;
   background-size: cover;
   padding: 30px 15px;
 }
@@ -1163,7 +1163,7 @@ body.lock {
 }
 .price-pop-pup__body {
   width: 270px;
-  background: url("../../images/price-pop-pup/bg.png") no-repeat;
+  background: url("../images/price-pop-pup/bg.png") no-repeat;
   padding: 30px 15px;
 }
 .price-pop-pup__title {
@@ -1207,7 +1207,7 @@ body.lock {
   opacity: 0;
 }
 .price-pop-pup-pc__body {
-  background: url("../../images/price-pop-pup/bg-pc.png") no-repeat;
+  background: url("../images/price-pop-pup/bg-pc.png") no-repeat;
   background-size: cover;
   padding: 12px 50px 40px;
   width: 750px;
@@ -1298,7 +1298,7 @@ body.lock {
 }
 .contucts-pop-pup__body {
   width: 270px;
-  background: url("../../images/contucts-pop-pup/bg-pc.png") center no-repeat;
+  background: url("../images/contucts-pop-pup/bg-pc.png") center no-repeat;
   background-size: cover;
   padding: 30px 15px 70px;
 }
@@ -1431,7 +1431,7 @@ body.lock {
   opacity: 0;
 }
 .selection-pop-pup__body {
-  background: url("../../images/selection-pop-pup/bg-mob.png") center no-repeat;
+  background: url("../images/selection-pop-pup/bg-mob.png") center no-repeat;
   background-size: cover;
   width: 270px;
   padding: 30px 15px;
@@ -1470,7 +1470,7 @@ body.lock {
 
 @media (min-width: 768px) {
   .selection-pop-pup__body {
-    background: url("../../images/selection-pop-pup/bg-pc.png") center no-repeat;
+    background: url("../images/selection-pop-pup/bg-pc.png") center no-repeat;
     background-size: cover;
     width: 750px;
     padding: 25px 30px 25px;
@@ -1529,7 +1529,7 @@ body.lock {
   opacity: 0;
 }
 .trade-in-pop-pup .selection-pop-pup__body {
-  background: url("../../images/trade-in-pop-pup/bg-mob.png") no-repeat;
+  background: url("../images/trade-in-pop-pup/bg-mob.png") no-repeat;
   background-size: cover;
 }
 .trade-in-pop-pup .selection-pop-pup__top {
@@ -1560,7 +1560,7 @@ body.lock {
 }
 
 .input-file-button {
-  width: 294px;
+  width: 100%;
   font-size: 12px;
   display: flex;
   justify-content: space-between;
@@ -1587,7 +1587,7 @@ body.lock {
 
 @media (min-width: 768px) {
   .trade-in-pop-pup .selection-pop-pup__body {
-    background: url("../../images/trade-in-pop-pup/bg-pc.png") no-repeat;
+    background: url("../images/trade-in-pop-pup/bg-pc.png") no-repeat;
     background-size: cover;
   }
   .trade-in-pop-pup .selection-pop-pup__top {
@@ -1604,13 +1604,17 @@ body.lock {
   .file-wrapper {
     width: 294px;
   }
+
+  .input-file-button {
+    width: 294px;
+  }
 }
 .auto-redemption-pop-pup {
   visibility: hidden;
   opacity: 0;
 }
 .auto-redemption-pop-pup .selection-pop-pup__body {
-  background: url("../../images/auto-redemption-pop-pup/bg-mob.png") no-repeat;
+  background: url("../images/auto-redemption-pop-pup/bg-mob.png") no-repeat;
   background-size: cover;
 }
 
@@ -1627,7 +1631,7 @@ body.lock {
 }
 
 .input_file-button {
-  width: 294px;
+  width: 100%;
   font-size: 12px;
   display: flex;
   justify-content: space-between;
@@ -1650,8 +1654,12 @@ body.lock {
 
 @media (min-width: 768px) {
   .auto-redemption-pop-pup .selection-pop-pup__body {
-    background: url("../../images/auto-redemption-pop-pup/bg-pc.png") no-repeat;
+    background: url("../images/auto-redemption-pop-pup/bg-pc.png") no-repeat;
     background-size: cover;
+  }
+
+  .input_file-button {
+    width: 294px;
   }
 }
 .standart-pop-pup {
@@ -1659,7 +1667,7 @@ body.lock {
   opacity: 0;
 }
 .standart-pop-pup__body {
-  background: url("../../images/standart-pop-pup/bg.jpg") no-repeat;
+  background: url("../images/standart-pop-pup/bg.jpg") no-repeat;
   background-size: cover;
   padding: 15px 30px 39px;
   width: 750px;
@@ -1797,7 +1805,7 @@ body.lock {
   opacity: 0;
 }
 .premium-pop-pup .standart-pop-pup__body {
-  background: url("../../images/premium-pop-pup/bg.jpg") no-repeat;
+  background: url("../images/premium-pop-pup/bg.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -1806,6 +1814,6 @@ body.lock {
   opacity: 0;
 }
 .platinum-pop-pup .standart-pop-pup__body {
-  background: url("../../images/platinum-pop-pup/bg.jpg") no-repeat;
+  background: url("../images/platinum-pop-pup/bg.jpg") no-repeat;
   background-size: cover;
 }
